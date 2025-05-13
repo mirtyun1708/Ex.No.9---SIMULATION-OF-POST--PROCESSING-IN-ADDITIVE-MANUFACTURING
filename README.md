@@ -44,6 +44,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2025-05-13 205321](https://github.com/user-attachments/assets/f881524e-aa50-438f-b71c-f26cd20d9168)
+![Screenshot 2025-05-13 205333](https://github.com/user-attachments/assets/29602ad1-6dc9-4d7e-9a86-8d603a32b63e)
+![Screenshot 2025-05-13 205343](https://github.com/user-attachments/assets/c1a7e12f-15b1-4c4e-8c2c-5e1c06d4f20e)
+
+
+
 
 ### Name:MIRTYUNJAY S
 ### Register Number:212224040190
